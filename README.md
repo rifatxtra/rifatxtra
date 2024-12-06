@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rifatxtra (Md. Rashedul Islam)
 - 👀 I’m interested in Web Development, Crypto, Farming
-- 🌱 I’m currently learning laravel
+- I am a proffesional full stack developer and crypto expert
+- 🌱 I’m currently learning php,laravel,react,javascript,mysql
 - 💞️ I’m looking to collaborate on Crypto Community Management, Website Development (Wordpress, Html,css, javascript,php)
 - 📫 How to reach me
 - business@rifatxtra.xyz

@@ -6,7 +6,7 @@
 <br>💞️ I’m looking to collaborate on Crypto Community Management, Website Development 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rashedul.ririfat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifatxtra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business@rifatxtra.xyz) [![Follow on X](https://img.shields.io/badge/X-Follow-blue?logo=twitter)](https://x.com/rifatxtra)  [![Instagram](https://img.shields.io/badge/Instagram-@your_handle-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rifatxtra)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rashedul.ririfat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifatxtra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business@rifatxtra.xyz) [![Follow on X](https://img.shields.io/badge/X-Follow-blue?logo=twitter)](https://x.com/rifatxtra)  [![Instagram](https://img.shields.io/badge/Instagram-@rifatxtra-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rifatxtra)
 
 
 

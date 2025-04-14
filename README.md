@@ -4,7 +4,7 @@
 # 💫 About Me:<br>
 🔭 I’m interested in Web Development, Farming and working on multiple projects<br>🌱 I am a proffesional full stack developer<br>💬 Ask me about C++, Java<br>🌱 Have my expertise in php,laravel,react,javascript,mysql<br>⚡ Fun fact I spend more time debugging my own code than writing it! 🚀
 <br>💞️ I’m looking to collaborate on Crypto Community Management, Website Development 
-Owner of ![RWeb Solution IT](https://img.shields.io/badge/RWeb_Solution_IT-%23007BFF.svg?style=for-the-badge&logo=github&logoColor=white)
+Owner of Rweb Solution IT
 
 
 ## 🌐 Socials:

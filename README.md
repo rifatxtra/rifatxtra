@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and crypto lover from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatxtra&label=Profile%20views&color=0e75b6&style=flat" alt="rifatxtra" /> </p>
 # 💫 About Me:<br>
-🔭 I’m interested in Web Development, Farming and working on multiple projects<br>🌱 I am a proffesional full stack developer<br>💬 Ask me about C++, Java<br>🌱 Have my expertise in php,laravel,react,javascript,mysql<br>⚡ Fun fact I spend more time debugging my own code than writing it! 🚀
+🔭 I’m interested in Web Development, Farming and working on multiple projects<br>🌱 I am a proffesional full stack developer<br>💬 Ask me about PHP, C++, Java Script, Java<br>🌱 Have my expertise in php,laravel,react,javascript,mysql<br>⚡ Fun fact I spend more time debugging my own code than writing it! 🚀
 <br>💞️ I’m looking to collaborate on Crypto Community Management, Website Development 
 Owner of Rweb Solution IT
 

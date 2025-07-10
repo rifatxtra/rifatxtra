@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam Rifat</h1>
-<h3 align="center">A passionate developer and crypto lover from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatxtra&label=Profile%20views&color=0e75b6&style=flat" alt="rifatxtra" /> </p>
 # 💫 About Me:<br>
 🔭 I’m interested in Web Development, Farming and working on multiple projects<br>🌱 I am a proffesional full stack developer<br>💬 Ask me about PHP, C++, Java Script, Java<br>🌱 Have my expertise in php,laravel,react,javascript,mysql<br>⚡ Fun fact I spend more time debugging my own code than writing it! 🚀
@@ -8,7 +8,7 @@ Owner of Rweb Solution IT
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rashedul.ririfat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifatxtra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business@rifatxtra.xyz) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/rifatxtra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rifatxtra)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rashedul.ririfat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifatxtra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@rifatxtra.com) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/rifatxtra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rifatxtra)
 
 
 # 💻 Tech Stack:

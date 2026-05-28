@@ -87,18 +87,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-| Project | Stack | Highlights |
-|---------|-------|-----------|
-| 🏥 **[AKS Safety LMS Portal](https://portal.akssafety.com)** | Nest.js · React · TypeORM · MySQL | Full LMS admin panel: courses, exams, certificates, analytics, payment tracking |
-| 🍽️ **[Sweet Spot London](https://sweetspotlondon.co.uk)** | Laravel · React · Stripe | Restaurant ordering platform with Stripe checkout, invoicing & order tracking |
-| 🎓 **[OSHE London Academy](https://oshelondonacademy.org.uk)** | Laravel · React · TCPDF | Online learning platform with automated PDF certificate generation |
-| 🌐 **[THREE P B](https://threepb.com)** | Laravel · React · Inertia.js | Corporate site with admin-controlled CMS, blogs, products & service modules |
-| 🍔 **[QFast Food Ordering](https://github.com/rifatxtra)** | Laravel · React · Inertia.js | Multi-role app with cart, coupons, live order tracking & event broadcasting |
-| 🚌 **Online Bus Ticket System** | React · Express.js · MongoDB | Route search, seat selection, e-ticketing, booking history & operator dashboard |
-
----
 
 ## 📊 GitHub Stats
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Rashedul Islam (Rifat)</h1>
-<h3 align="center">Full Stack Developer · Laravel · Next.js · React.js · Nest.js · .NET Web API</h3>
+<h3 align="center">Full Stack Developer · Laravel · Next.js · React.js · Nest.js · Express.js · .NET Web API</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rifatxtra&label=Profile+views&color=0e75b6&style=flat" alt="rifatxtra" />

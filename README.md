@@ -10,12 +10,11 @@
 ## 💫 About Me
 
 🚀 Full Stack Developer from Bangladesh, building scalable web apps since 2022  
-🏢 Owner of **Rweb Solution IT**  
 🎓 BSc in Computer Science & Engineering — IUBAT (CGPA: 3.91/4.00, graduating Dec 2025)  
 🔭 Currently working on LMS platforms, e-commerce systems, and open-source packages  
 🌱 Passionate about clean architecture, RESTful API design, and production-ready software  
-💬 Ask me about **PHP, Laravel, React, Next.js, Nest.js, TypeScript, MySQL**  
-📫 Reach me at **rashedulmain@gmail.com** | **rifatxtra.com**  
+💬 Ask me about **PHP, Laravel, React, Next.js, Nest.js, Express.js, TypeScript, MySQL, PostgreSQL, MongoDB**  
+📫 Reach me at **contact@rifatxtra.com** | <a href="https://rifatxtra.com/">**rifatxtra.com**</a>  
 ⚡ Fun fact: I spend more time debugging than writing code — and proud of it 🐛
 
 ---
@@ -25,7 +24,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/rifatxtra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://rifatxtra.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white" /></a>
-  <a href="mailto:rashedulmain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@rifatxtra.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/rifatxtra"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://x.com/rifatxtra"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white" /></a>
   <a href="https://www.facebook.com/rashedul.ririfat"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
